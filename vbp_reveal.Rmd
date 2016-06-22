@@ -1,30 +1,31 @@
 ---
-title: "Habits"
-author: John Doe
-date: March 22, 2005
-output: revealjs::revealjs_presentation
+title: "Value into Process"
+author: TBD Solutions
+output:
+  revealjs::revealjs_presentation:
+    theme: solarized
+    highlight: zenburn
+    center: true
 ---
 
-# In the morning
+# What's happening?
 
-## Getting up
+## Reimbursement based on value
 
-- Turn off alarm
-- Get out of bed
+- CMS Goal by 2018 and beyond
+- Specific initiatives
 
-## Breakfast
+# What's value?
 
-- Eat eggs
-- Drink coffee
+## Basic Equation
 
-# In the evening
+## Measurable 
 
-## Dinner
+If quality services are provided in the middle of the woods and no one documents them, do they make a sound?
 
-- Eat spaghetti
-- Drink wine
+## What's resource use?
+What's quality?
 
-## Going to sleep
 
-- Get in bed
-- Count sheep
+# Weaving Value into Process
+
