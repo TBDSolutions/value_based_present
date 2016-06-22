@@ -1,0 +1,9 @@
+name: "vbp"
+output_dir: "."
+navbar:
+  title: "Making Value"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+href: about.html
