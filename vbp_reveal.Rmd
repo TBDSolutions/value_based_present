@@ -29,9 +29,9 @@ output:
 
 ## Quality / Resource Use 
 
-# What's resource use? {data-background=#eee8d5}
+# What resources? {data-background=#eee8d5}
 
-## What it takes to produce outcomes
+## Ingredients to produce outcomes
 
 - Payment ($)
 - Time and work, i.e. [Episodes](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/Value-Based-Programs/MACRA-MIPS-and-APMs/EGM-Design-Report.pdf)
@@ -45,7 +45,7 @@ If quality services are provided in the middle of the woods and no one documents
 ## Standard Measures, Standard Data {data-background=#eee8d5}
 
 - Process and Outcome
-- HEDIS, NQF, etc.
+- [HEDIS](http://www.ncqa.org/hedis-quality-measurement/hedis-measures), NQF, etc.
 - National ([Behavioral](http://www.samhsa.gov/data/national-behavioral-health-quality-framework)) [Health](http://www.ahrq.gov/workingforquality/nqs/nqsfactsheet.pdf) Strategy
 
 # How will it affect me? {data-background=#eee8d5}
