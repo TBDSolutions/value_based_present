@@ -13,19 +13,35 @@ output:
 ## Reimbursement based on value
 
 - CMS Goal by 2018 and beyond
-- Specific initiatives
+
+### Specific initiatives
 
 # What's value?
 
 ## Basic Equation
 
+- Quality / Resource Use
+
+
+
+# What's resource use?
+
+# What's quality?
+
 ## Measurable 
 
 If quality services are provided in the middle of the woods and no one documents them, do they make a sound?
 
-## What's resource use?
-What's quality?
+## Standard Measures, Standard Data
 
+- Process and Outcome
+- HEDIS, NQF, etc.
+- 
 
 # Weaving Value into Process
+
+
+---
+
+![]("tbdSolutions-logo.png")
 
