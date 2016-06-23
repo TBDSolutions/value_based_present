@@ -8,43 +8,64 @@ output:
     center: true
 ---
 
-# What's happening?
+# What's happening? 
 
-## Reimbursement based on value
+## Reimbursement based on value {data-background=#eee8d5}
 
-- CMS Goal by 2018 and beyond
+- The US pays a lot for a little
+- [90% of Medicare FFS tied to quality by 2018](https://www.cms.gov/Newsroom/MediaReleaseDatabase/Fact-sheets/Other-Content-Types/2015-01-26-2.PNG)
 
-### Specific initiatives
+## Specific initiatives {data-background=#eee8d5}
 
-- CCBHC
-- MACRA
+- [CCBHC](http://www.samhsa.gov/section-223/quality-measures)
+- [MACRA](http://www.ama-assn.org/ama/pub/advocacy/topics/medicare-physician-payment-reform.page), MIPS, APM
+- [Health Homes](https://www.medicaid.gov/state-resource-center/medicaid-state-technical-assistance/health-homes-technical-assistance/downloads/health-home-core-set-manual.pdf)
+
+## Five years... {data-background=#073642}
+
+![](mips_adjust.PNG)
 
 # What's value?
 
-## Basic Equation
+## Quality / Resource Use 
 
-- Quality / Resource Use
+# What's resource use? {data-background=#eee8d5}
 
+## What it takes to produce outcomes
 
+- Payment ($)
+- Time and work, i.e. [Episodes](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/Value-Based-Programs/MACRA-MIPS-and-APMs/EGM-Design-Report.pdf)
 
-# What's resource use?
+# What's quality? {data-background=#eee8d5}
 
-# What's quality?
-
-## Measurable 
+## Measurable {data-background=#eee8d5}
 
 If quality services are provided in the middle of the woods and no one documents them, do they make a sound?
 
-## Standard Measures, Standard Data
+## Standard Measures, Standard Data {data-background=#eee8d5}
 
 - Process and Outcome
 - HEDIS, NQF, etc.
-- 
+- National ([Behavioral](http://www.samhsa.gov/data/national-behavioral-health-quality-framework)) [Health](http://www.ahrq.gov/workingforquality/nqs/nqsfactsheet.pdf) Strategy
 
-# Weaving Value into Process
+# How will it affect me? {data-background=#eee8d5}
 
+## Process Redesign {data-background=#eee8d5}
 
-# By
+- Can we afford to leave process up to choice?
+
+## Clinical Supervision {data-background=#eee8d5}
+
+- Payment adjustments are per physician
+- How does this impact supervision?  contracting?
+
+# Example
+
+## 
+
+# By...
+
+----
 
 ![](tbdSolutions-logo.png)
 
