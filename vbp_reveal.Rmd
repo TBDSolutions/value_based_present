@@ -1,6 +1,6 @@
 ---
-title: "Value into Process"
-author: TBD Solutions
+title: Value into Process
+author: Value-based Payment in Behavioral Health
 output:
   revealjs::revealjs_presentation:
     theme: solarized
@@ -15,6 +15,9 @@ output:
 - CMS Goal by 2018 and beyond
 
 ### Specific initiatives
+
+- CCBHC
+- MACRA
 
 # What's value?
 
@@ -41,7 +44,7 @@ If quality services are provided in the middle of the woods and no one documents
 # Weaving Value into Process
 
 
----
+# By
 
-![]("tbdSolutions-logo.png")
+![](tbdSolutions-logo.png)
 
