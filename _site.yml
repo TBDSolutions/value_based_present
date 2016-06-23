@@ -1,7 +1,7 @@
 name: "Value Based Payment in Behavioral Healthcare"
 output_dir: "."
 navbar:
-  title: "Value Based Payment in Behavioral Healthcare"
+  title: "Value into Process"
   left:
     - text: "About"
       href: vbp_reveal.html
