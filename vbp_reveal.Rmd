@@ -20,6 +20,7 @@ output:
 - [CCBHC](http://www.samhsa.gov/section-223/quality-measures)
 - [MACRA](http://www.ama-assn.org/ama/pub/advocacy/topics/medicare-physician-payment-reform.page), MIPS, APM
 - [Health Homes](https://www.medicaid.gov/state-resource-center/medicaid-state-technical-assistance/health-homes-technical-assistance/downloads/health-home-core-set-manual.pdf)
+- [HBIPS](https://www.qualitycheck.org/)
 
 ## Five years... {data-background=#073642}
 
@@ -45,23 +46,36 @@ If quality services are provided in the middle of the woods and no one documents
 ## Standard Measures, Standard Data {data-background=#eee8d5}
 
 - Process and Outcome
-- [HEDIS](http://www.ncqa.org/hedis-quality-measurement/hedis-measures), NQF, etc.
+- [HEDIS](http://www.ncqa.org/hedis-quality-measurement/hedis-measures), [NQF](http://www.qualityforum.org/QPS/QPSTool.aspx), etc.
 - National ([Behavioral](http://www.samhsa.gov/data/national-behavioral-health-quality-framework)) [Health](http://www.ahrq.gov/workingforquality/nqs/nqsfactsheet.pdf) Strategy
+- Common codesets 
 
 # How will it affect me? {data-background=#eee8d5}
 
-## Process Redesign {data-background=#eee8d5}
+## How you work {data-background=#eee8d5}
 
 - Can we afford to leave process up to choice?
+- Process Redesign
 
-## Clinical Supervision {data-background=#eee8d5}
+## How you manage {data-background=#eee8d5}
 
 - Payment adjustments are per physician
-- How does this impact supervision?  contracting?
+- How does this impact clinical supervision?  contracting?
 
-# Example
+# One example...
 
-## 
+## Metabolic Monitoring {data-background=#eee8d5}
+
+- Diabetes Screening for People With Schizophrenia or Bipolar Disorder Who Are Using Antipsychotic Medications ([NQF 1932](http://www.qualityforum.org/QPS/1932))
+- Well documented [clinical guidelines](http://care.diabetesjournals.org/content/27/2/596.full?ijkey) and [tools](http://www.cqaimh.org/pdf/tool_metabolic.pdf) for over a decade
+- How hard could it be?
+
+## Challenges
+
+- Data capture
+- Communication / interoperability
+- Requires patient activation
+- Accountability across systems
 
 # By...
 
