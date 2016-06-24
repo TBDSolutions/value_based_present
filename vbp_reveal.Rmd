@@ -1,5 +1,5 @@
 ---
-title: Value into Process
+title: Value ► Process
 author: Value-based Payment in Behavioral Health
 output:
   revealjs::revealjs_presentation:
@@ -28,6 +28,8 @@ output:
 
 # What's value?
 
+## ☤ / $
+
 ## Quality / Resource Use 
 
 # What resources? {data-background=#eee8d5}
@@ -39,7 +41,7 @@ output:
 
 # What's quality? {data-background=#eee8d5}
 
-## Measurable {data-background=#eee8d5}
+## ▦ Measurable {data-background=#eee8d5}
 
 If quality services are provided in the middle of the woods and no one documents them, do they make a sound?
 
@@ -70,7 +72,7 @@ If quality services are provided in the middle of the woods and no one documents
 - Well documented [clinical guidelines](http://care.diabetesjournals.org/content/27/2/596.full?ijkey) and [tools](http://www.cqaimh.org/pdf/tool_metabolic.pdf) for over a decade
 - How hard could it be?
 
-## Challenges
+## ☂☔ Challenges
 
 - Data capture
 - Communication / interoperability
@@ -83,3 +85,5 @@ If quality services are provided in the middle of the woods and no one documents
 
 ![](tbdSolutions-logo.png)
 
+## ☀ ☼ ☁ ☂ ★ ☎ ☑ ☔ ☤ ☺ ☻ ♡ ♥ ♺ ♻
+## ↺ ≅ ⊞ ⊷  ▦  ► ◀ ◉ ◍ ◎ ◐ ✿❆❉
