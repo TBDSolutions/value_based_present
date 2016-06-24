@@ -45,7 +45,7 @@ output:
 
 If quality services are provided in the middle of the woods and no one documents them, do they make a sound?
 
-## Standard Measures, Standard Data {data-background=#eee8d5}
+## ❉ Standard Measures, Standard Data {data-background=#eee8d5}
 
 - Process and Outcome
 - [HEDIS](http://www.ncqa.org/hedis-quality-measurement/hedis-measures), [NQF](http://www.qualityforum.org/QPS/QPSTool.aspx), etc.
@@ -54,12 +54,13 @@ If quality services are provided in the middle of the woods and no one documents
 
 # How will it affect me? {data-background=#eee8d5}
 
-## How you work {data-background=#eee8d5}
+## ☑ How you work {data-background=#eee8d5}
 
 - Can we afford to leave process up to choice?
+- Coding practices
 - Process Redesign
 
-## How you manage {data-background=#eee8d5}
+## ☛ How you manage {data-background=#eee8d5}
 
 - Payment adjustments are per physician
 - How does this impact clinical supervision?  contracting?
@@ -72,18 +73,18 @@ If quality services are provided in the middle of the woods and no one documents
 - Well documented [clinical guidelines](http://care.diabetesjournals.org/content/27/2/596.full?ijkey) and [tools](http://www.cqaimh.org/pdf/tool_metabolic.pdf) for over a decade
 - How hard could it be?
 
-## ☂☔ Challenges
+## ☔ Challenges
 
 - Data capture
 - Communication / interoperability
 - Requires patient activation
 - Accountability across systems
 
-# By...
+# ✎ By...
 
 ----
 
 ![](tbdSolutions-logo.png)
 
 ## ☀ ☼ ☁ ☂ ★ ☎ ☑ ☔ ☤ ☺ ☻ ♡ ♥ ♺ ♻
-## ↺ ≅ ⊞ ⊷  ▦  ► ◀ ◉ ◍ ◎ ◐ ✿❆❉
+## ↺ ≅ ⊞ ⊷  ▦  ► ◀ ◉ ◍ ◎ ◐ ✿❆❉ ☛
