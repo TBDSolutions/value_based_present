@@ -34,10 +34,14 @@ output:
 
 # What resources? {data-background=#eee8d5}
 
-## Ingredients to produce outcomes
+## ◍ Ingredients to produce outcomes
 
 - Payment ($)
 - Time and work, i.e. [Episodes](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/Value-Based-Programs/MACRA-MIPS-and-APMs/EGM-Design-Report.pdf)
+
+## Defining resources
+
+- Past efforts (DRG, )
 
 # What's quality? {data-background=#eee8d5}
 
@@ -57,23 +61,23 @@ If quality services are provided in the middle of the woods and no one documents
 ## ☑ How you work {data-background=#eee8d5}
 
 - Can we afford to leave process up to choice?
-- Coding practices
-- Process Redesign
+- [Attention to coding practices](http://bok.ahima.org/doc?oid=69799#.V4_vRTX36SQ)
+- Process redesign improving data capture and [EMR usability](http://jamia.oxfordjournals.org/content/early/2015/06/06/jamia.ocv050)
 
 ## ☛ How you manage {data-background=#eee8d5}
 
-- Payment adjustments are per physician
-- How does this impact clinical supervision?  contracting?
+- Payment adjustments are often *per physician*
+- How does this impact clinical supervision?  Contracting?
 
-## Measurement-Based Care {data-background=#2aa198}
+## Defining "Better" {data-background=#073642}
 
-- [Move to increase measurement in behavioral health treatment](http://thekennedyforum-dot-org.s3.amazonaws.com/documents/KennedyForum-MeasurementBasedCare_2.pdf)
+- [Move toward measurement-based care in behavioral health treatment](http://thekennedyforum-dot-org.s3.amazonaws.com/documents/KennedyForum-MeasurementBasedCare_2.pdf)
 - [Only 11% of psychologists routinely administer symptom scales](http://www.ncbi.nlm.nih.gov/pubmed/19916162)
 - [Tools are already available for use](http://thekennedyforum-dot-org.s3.amazonaws.com/documents/MBC_supplement.pdf), (e.g. [DSM5 measures](https://www.psychiatry.org/psychiatrists/practice/dsm/dsm-5/online-assessment-measures), [PROMIS](http://www.healthmeasures.net/explore-measurement-systems/promis) )
 
 # One example...
 
-## Metabolic Monitoring {data-background=#eee8d5}
+## ⊷ Metabolic Monitoring {data-background=#eee8d5}
 
 - Diabetes Screening for People With Schizophrenia or Bipolar Disorder Who Are Using Antipsychotic Medications ([NQF 1932](http://www.qualityforum.org/QPS/1932))
 - Well documented [clinical guidelines](http://care.diabetesjournals.org/content/27/2/596.full?ijkey) and [tools](http://www.cqaimh.org/pdf/tool_metabolic.pdf) for over a decade
@@ -90,7 +94,7 @@ If quality services are provided in the middle of the woods and no one documents
 
 ----
 
-![](tbdSolutions-logo.png)
+[![tbd](tbdSolutions-logo.png)](www.tbdsolutions.com)
 
 ## ☀ ☼ ☁ ☂ ★ ☎ ☑ ☔ ☤ ☺ ☻ ♡ ♥ ♺ ♻
 ## ↺ ≅ ⊞ ⊷  ▦  ► ◀ ◉ ◍ ◎ ◐ ✿❆❉ ☛
