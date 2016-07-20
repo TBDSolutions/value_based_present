@@ -12,7 +12,7 @@ output:
 
 ## Reimbursement based on value {data-background=#eee8d5}
 
-- The US pays a lot for a little
+- [The US pays a lot for a little](http://www.commonwealthfund.org/publications/issue-briefs/2015/oct/us-health-care-from-a-global-perspective)
 - [90% of Medicare FFS tied to quality by 2018](https://www.cms.gov/Newsroom/MediaReleaseDatabase/Fact-sheets/Other-Content-Types/2015-01-26-2.PNG)
 
 ## Specific initiatives {data-background=#eee8d5}
@@ -65,6 +65,12 @@ If quality services are provided in the middle of the woods and no one documents
 - Payment adjustments are per physician
 - How does this impact clinical supervision?  contracting?
 
+## Measurement-Based Care {data-background=#2aa198}
+
+- [Move to increase measurement in behavioral health treatment](http://thekennedyforum-dot-org.s3.amazonaws.com/documents/KennedyForum-MeasurementBasedCare_2.pdf)
+- [Only 11% of psychologists routinely administer symptom scales](http://www.ncbi.nlm.nih.gov/pubmed/19916162)
+- [Tools are already available for use](http://thekennedyforum-dot-org.s3.amazonaws.com/documents/MBC_supplement.pdf), (e.g. [DSM5 measures](https://www.psychiatry.org/psychiatrists/practice/dsm/dsm-5/online-assessment-measures), [PROMIS](http://www.healthmeasures.net/explore-measurement-systems/promis) )
+
 # One example...
 
 ## Metabolic Monitoring {data-background=#eee8d5}
@@ -73,7 +79,7 @@ If quality services are provided in the middle of the woods and no one documents
 - Well documented [clinical guidelines](http://care.diabetesjournals.org/content/27/2/596.full?ijkey) and [tools](http://www.cqaimh.org/pdf/tool_metabolic.pdf) for over a decade
 - How hard could it be?
 
-## ☔ Challenges
+## ☂ Challenges
 
 - Data capture
 - Communication / interoperability
