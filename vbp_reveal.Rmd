@@ -41,7 +41,7 @@ output:
 
 ## Defining resources
 
-- Past efforts (DRG, )
+- Past efforts ([DRG](https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/AcuteInpatientPPS/index.html?redirect=/acuteinpatientpps/), )
 
 # What's quality? {data-background=#eee8d5}
 
@@ -69,7 +69,7 @@ If quality services are provided in the middle of the woods and no one documents
 - Payment adjustments are often *per physician*
 - How does this impact clinical supervision?  Contracting?
 
-## Defining "Better" {data-background=#073642}
+## ☻ Defining "Better" {data-background=#073642}
 
 - [Move toward measurement-based care in behavioral health treatment](http://thekennedyforum-dot-org.s3.amazonaws.com/documents/KennedyForum-MeasurementBasedCare_2.pdf)
 - [Only 11% of psychologists routinely administer symptom scales](http://www.ncbi.nlm.nih.gov/pubmed/19916162)
@@ -94,7 +94,7 @@ If quality services are provided in the middle of the woods and no one documents
 
 ----
 
-[![tbd](tbdSolutions-logo.png)](www.tbdsolutions.com)
+![](tbdSolutions-logo.png)
 
 ## ☀ ☼ ☁ ☂ ★ ☎ ☑ ☔ ☤ ☺ ☻ ♡ ♥ ♺ ♻
 ## ↺ ≅ ⊞ ⊷  ▦  ► ◀ ◉ ◍ ◎ ◐ ✿❆❉ ☛
