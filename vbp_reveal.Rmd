@@ -21,6 +21,7 @@ output:
 - [MACRA](http://www.ama-assn.org/ama/pub/advocacy/topics/medicare-physician-payment-reform.page), MIPS, APM
 - [Health Homes](https://www.medicaid.gov/state-resource-center/medicaid-state-technical-assistance/health-homes-technical-assistance/downloads/health-home-core-set-manual.pdf)
 - [HBIPS](https://www.qualitycheck.org/)
+- [CMS Innovation Models](https://innovation.cms.gov/initiatives/index.html#views=models)
 
 ## Five years... {data-background=#073642}
 
@@ -41,7 +42,8 @@ output:
 
 ## Defining resources
 
-- Past efforts ([DRG](https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/AcuteInpatientPPS/index.html?redirect=/acuteinpatientpps/), )
+- Past efforts (e.g. [DRG](https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/AcuteInpatientPPS/index.html?redirect=/acuteinpatientpps/))
+- [CCBHC prospective payment](http://www.samhsa.gov/section-223/certification-resource-guides/prospective-payment-system)
 
 # What's quality? {data-background=#eee8d5}
 
