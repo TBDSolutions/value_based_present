@@ -4,21 +4,27 @@ author: Value-based Payment in Behavioral Health
 output:
   revealjs::revealjs_presentation:
     theme: solarized
-    highlight: zenburn
+    highlight: tango #opts {zenburn, tango}
     center: true
 ---
 
 # What's happening? 
 
+## We pay a lot for a little {data-background=#073642}
+
+![](kaiser_spending.PNG)
+
 ## Reimbursement based on value {data-background=#eee8d5}
 
-- [The US pays a lot for a little](http://www.commonwealthfund.org/publications/issue-briefs/2015/oct/us-health-care-from-a-global-perspective)
+- [We spend more money for less quality and less access to care](http://www.commonwealthfund.org/publications/issue-briefs/2015/oct/us-health-care-from-a-global-perspective)
+- [Same $ for effective and ineffective treatment, providers](http://vbidcenter.org/v-bid-in-action-driving-value-through-clinically-nuanced-incentives/)
 - [90% of Medicare FFS tied to quality by 2018](https://www.cms.gov/Newsroom/MediaReleaseDatabase/Fact-sheets/Other-Content-Types/2015-01-26-2.PNG)
 
 ## Specific initiatives {data-background=#eee8d5}
 
 - [CCBHC](http://www.samhsa.gov/section-223/quality-measures)
-- [MACRA](http://www.ama-assn.org/ama/pub/advocacy/topics/medicare-physician-payment-reform.page), MIPS, APM
+- Integrated BH Funding
+- [MACRA](http://www.ama-assn.org/ama/pub/advocacy/topics/medicare-physician-payment-reform.page), [MIPS](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/Value-Based-Programs/MACRA-MIPS-and-APMs/MIPS-Scoring-Methodology-slide-deck.pdf), APM
 - [Health Homes](https://www.medicaid.gov/state-resource-center/medicaid-state-technical-assistance/health-homes-technical-assistance/downloads/health-home-core-set-manual.pdf)
 - [HBIPS](https://www.qualitycheck.org/)
 - [CMS Innovation Models](https://innovation.cms.gov/initiatives/index.html#views=models)
@@ -33,6 +39,15 @@ output:
 
 ## Quality / Resource Use 
 
+## Quick Quiz {data-background=#859900}
+
+Which of the following leads to increased value?
+
+1. More quality, same cost
+2. Same quality, same cost
+3. Same quality, less cost
+4. Less quality, less cost
+
 # What resources? {data-background=#eee8d5}
 
 ## ◍ Ingredients to produce outcomes
@@ -40,7 +55,7 @@ output:
 - Payment ($)
 - Time and work, i.e. [Episodes](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/Value-Based-Programs/MACRA-MIPS-and-APMs/EGM-Design-Report.pdf)
 
-## Defining resources
+## ◎ Defining resources
 
 - Past efforts (e.g. [DRG](https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/AcuteInpatientPPS/index.html?redirect=/acuteinpatientpps/))
 - [CCBHC prospective payment](http://www.samhsa.gov/section-223/certification-resource-guides/prospective-payment-system)
@@ -56,7 +71,7 @@ If quality services are provided in the middle of the woods and no one documents
 - Process and Outcome
 - [HEDIS](http://www.ncqa.org/hedis-quality-measurement/hedis-measures), [NQF](http://www.qualityforum.org/QPS/QPSTool.aspx), etc.
 - National ([Behavioral](http://www.samhsa.gov/data/national-behavioral-health-quality-framework)) [Health](http://www.ahrq.gov/workingforquality/nqs/nqsfactsheet.pdf) Strategy
-- Common codesets 
+- [Common codesets](https://vsac.nlm.nih.gov/) 
 
 # How will it affect me? {data-background=#eee8d5}
 
