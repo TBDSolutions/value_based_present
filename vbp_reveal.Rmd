@@ -19,6 +19,7 @@ output:
 - [We spend more money for less quality and less access to care](http://www.commonwealthfund.org/publications/issue-briefs/2015/oct/us-health-care-from-a-global-perspective)
 - [Same $ for effective and ineffective treatment, providers](http://vbidcenter.org/v-bid-in-action-driving-value-through-clinically-nuanced-incentives/)
 - [90% of Medicare FFS tied to quality by 2018](https://www.cms.gov/Newsroom/MediaReleaseDatabase/Fact-sheets/Other-Content-Types/2015-01-26-2.PNG)
+- [Increased transparency for consumers](https://amino.com/)
 
 ## Specific initiatives {data-background=#eee8d5}
 
