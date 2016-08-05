@@ -40,7 +40,7 @@ output:
 
 ## Quality / Resource Use 
 
-## Quick Quiz {data-background=#859900}
+## Quick Quiz {data-background=#93a1a1}
 
 Which of the following leads to increased value?
 
